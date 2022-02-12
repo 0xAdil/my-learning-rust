@@ -20,6 +20,8 @@ Any mention of chapters in following refers to "the book" at https://doc.rust-la
 
 - Skim reviewing RustConf 2019 video again, this has been pinned for weeks I've been through it several times by now.
 
+- Reading partially https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch
+
 - Auditing several published crates and the conventions for structure: sigp/lighthouse, ethers-rs, ethereum, ethers_contract, swc-project/swc
 
 - Looking up macros
