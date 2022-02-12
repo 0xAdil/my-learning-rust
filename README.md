@@ -12,7 +12,7 @@ Motivation is established.
 
 Any mention of chapters in following refers to "the book" at https://doc.rust-lang.org/book/
 
-- Getting a mental taste of syntax: https://cheats.rs/
+- Getting a mental taste of syntax, first three sections only: https://cheats.rs/
 
 - Skim reviewing RustConf 2019 video again, this has been pinned for weeks I've been through it several times by now.
 
@@ -33,3 +33,5 @@ By this time I've gone through Chapter 1, 2 (skimming), 3, 5, 7, 10 without real
 - Skimming through Chapter 19.2, 19.3
 
 - Skimming through `rust-lang/rust`
+
+- End reading falling-in-love-with-rust article
