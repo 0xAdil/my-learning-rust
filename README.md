@@ -8,9 +8,13 @@ My general method of learning anything is to pop up questions and then search fo
 
 - Realizing rust has good support and cross-community
 
+- Checking out rustwasm
+
 Motivation is established.
 
 Any mention of chapters in following refers to "the book" at https://doc.rust-lang.org/book/
+
+- Skimming through tutorial (no coding) https://rustwasm.github.io/docs/book/
 
 - Getting a mental taste of syntax, first three sections only: https://cheats.rs/
 
